@@ -20,4 +20,4 @@
 
 ## 🌐 Contato
 - [LinkedIn](https://www.linkedin.com/in/juan-pyerre-153432321)  
-- 📧 juan.pyerre777@gmail.com
+- juan.pyerre777@gmail.com

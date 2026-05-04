@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Juan Pyerre
 
-<!--
-**Juan-Pyerre/Juan-Pyerre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante e entusiasta da área de **automação de processos e inteligência artificial**.  
+💡 Focado em desenvolver soluções com **Python** e ferramentas como **Power Automate**, explorando automação de dados e integração de sistemas.  
+🚀 Objetivo: construir um portfólio sólido e compartilhar projetos que mostrem meu aprendizado e evolução.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- **Linguagens:** Python, Java, C++
+- **Ferramentas de Automação:** Power Automate, scripts em Python
+- **Interesses:** Inteligência Artificial, Automação de Dados, RPA
+
+---
+
+## 📂 Projetos em destaque
+*(Em breve adicionarei projetos)*
+
+---
+
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juan-pyerre&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Contato
+- [LinkedIn](https://www.linkedin.com/in/juan-pyerre-153432321)  
+- 📧 juan.pyerre777@gmail.com

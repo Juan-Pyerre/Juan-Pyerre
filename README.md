@@ -18,11 +18,6 @@
 
 ---
 
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juan-pyerre&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Contato
 - [LinkedIn](https://www.linkedin.com/in/juan-pyerre-153432321)  
 - 📧 juan.pyerre777@gmail.com

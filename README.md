@@ -19,7 +19,7 @@
 
 ### 🏦 Featured project
 
-**[JY Bank – Banking System with Concurrent Transactions](https://github.com/YOUR-USERNAME/YOUR-REPO)**
+**[JY Bank – Banking System with Concurrent Transactions]([https://github.com/YOUR-USERNAME/YOUR-REPO](https://github.com/Juan-Pyerre/Banking-System-))**
 A Java banking system that handles simultaneous transactions safely.
 
 - ⚙️ Thread-safe operations, synchronization and deadlock handling

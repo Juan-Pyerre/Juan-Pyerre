@@ -12,7 +12,7 @@
 
 ## 🇺🇸 English
 
-🎓 Software Engineering student (3rd semester) from Brazil, building a career in **backend development for banking and fintech**.
+🎓 Software Engineering student (4rd semester) from Brazil, building a career in **backend development for banking and fintech**.
 🏦 Currently focused on **Java, concurrency, data persistence and secure financial transactions**.
 🤖 Also experienced with **Python and process automation** (Power Automate, scripts, RPA), which I use to automate repetitive work.
 🎯 **Looking for an internship** in backend / banking systems.
@@ -48,7 +48,7 @@ A Java banking system that handles simultaneous transactions safely.
 
 ## 🇧🇷 Português
 
-🎓 Estudante de Engenharia de Software (3º semestre), em busca de uma carreira em **desenvolvimento backend para o setor bancário e fintechs**.
+🎓 Estudante de Engenharia de Software (4º semestre), em busca de uma carreira em **desenvolvimento backend para o setor bancário e fintechs**.
 🏦 Atualmente focado em **Java, concorrência, persistência de dados e transações financeiras seguras**.
 🤖 Também tenho experiência com **Python e automação de processos** (Power Automate, scripts, RPA), que uso para automatizar tarefas repetitivas.
 🎯 **Buscando estágio** em backend / sistemas bancários.
